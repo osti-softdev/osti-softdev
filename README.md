@@ -17,37 +17,48 @@
 
 ## 💡 Our Software Solutions
 
-<p align="center">
-  <a href="https://github.com/osti-dev/DBP_IDS_SYSTEM" target="_blank">
-    <img src="https://dev.osti.com.ph/ids.jpg" width="200" alt="Interactive Digital Signage"/><br>
-    <b>Interactive Digital Signage</b>
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/DBP_IDS_SYSTEM">
+    <img src="https://dev.osti.com.ph/ids.jpg" width="200" alt="Interactive Digital Signage"/>
+    <br><b>Interactive Digital Signage</b>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osti-dev/QueueSystem" target="_blank">
-    <img src="https://dev.osti.com.ph/queue.png" width="200" alt="Queue System"/><br>
-    <b>Queue System Management</b>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/QueueSystem">
+    <img src="https://dev.osti.com.ph/queue.png" width="200" alt="Queue System"/>
+    <br><b>Queue System Management</b>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osti-dev/CustomerFeedbackSystem" target="_blank">
-    <img src="https://dev.osti.com.ph/feed.jpg" width="200" alt="Customer Feedback"/><br>
-    <b>Customer Feedback System</b>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/CustomerFeedbackSystem">
+    <img src="https://dev.osti.com.ph/feed.jpg" width="200" alt="Customer Feedback"/>
+    <br><b>Customer Feedback System</b>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osti-dev/OnlineAppointmentSystem" target="_blank">
-    <img src="https://dev.osti.com.ph/ai.png" width="200" alt="Online Appointment"/><br>
-    <b>Online Appointment System</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/OnlineAppointmentSystem">
+    <img src="https://dev.osti.com.ph/ai.png" width="200" alt="Online Appointment"/>
+    <br><b>Online Appointment System</b>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osti-dev/TOYOTA_LOYALTYCARD" target="_blank">
-    <img src="https://dev.osti.com.ph/loyalty.jpg" width="200" alt="Loyalty Card"/><br>
-    <b>Loyalty Card Solutions</b>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/TOYOTA_LOYALTYCARD">
+    <img src="https://dev.osti.com.ph/loyalty.jpg" width="200" alt="Loyalty Card"/>
+    <br><b>Loyalty Card Solutions</b>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/osti-dev/CustomSolutions" target="_blank">
-    <img src="https://dev.osti.com.ph/ca.png" width="200" alt="Custom Solutions"/><br>
-    <b>Custom Solutions</b>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/osti-dev/CustomSolutions">
+    <img src="https://dev.osti.com.ph/ca.png" width="200" alt="Custom Solutions"/>
+    <br><b>Custom Solutions</b>
   </a>
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -61,15 +72,26 @@
 
 ## 👨‍💻 Our Expert Team
 
-<p align="center">
-  <a href="#"><img src="https://dev.osti.com.ph/cade.png" width="150" style="border-radius:50%;"/><br><b>CADE LAWRENZO CAÑA</b><br>Development Head</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://dev.osti.com.ph/therese.jpg" width="150" style="border-radius:50%;"/><br><b>THERESE BACULPO</b><br>Lead Developer</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://dev.osti.com.ph/wenjoy.png" width="150" style="border-radius:50%;"/><br><b>WENJOY YBAS</b><br>Project Manager</a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://dev.osti.com.ph/ike.png" width="150" style="border-radius:50%;"/><br><b>DEVON IKE HICALDE</b><br>UI/UX In-Charge</a>
-</p>
+<table>
+<tr>
+<td align="center" width="25%">
+  <img src="https://dev.osti.com.ph/cade.png" width="150" style="border-radius:50%;"/><br>
+  <b>CADE LAWRENZO CAÑA</b><br>Development Head
+</td>
+<td align="center" width="25%">
+  <img src="https://dev.osti.com.ph/therese.jpg" width="150" style="border-radius:50%;"/><br>
+  <b>THERESE BACULPO</b><br>Lead Developer
+</td>
+<td align="center" width="25%">
+  <img src="https://dev.osti.com.ph/wenjoy.png" width="150" style="border-radius:50%;"/><br>
+  <b>WENJOY YBAS</b><br>Project Manager
+</td>
+<td align="center" width="25%">
+  <img src="https://dev.osti.com.ph/ike.png" width="150" style="border-radius:50%;"/><br>
+  <b>DEVON IKE HICALDE</b><br>UI/UX In-Charge
+</td>
+</tr>
+</table>
 
 ---
 
