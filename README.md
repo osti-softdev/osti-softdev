@@ -15,6 +15,44 @@ We specialize in creating powerful applications, crafting intuitive UIs, and exp
 
 ---
 
+## 💡 Our Software Solutions
+
+<p align="center">
+  <a href="https://github.com/osti-dev/QueueSystem" target="_blank">
+    <img src="https://dev.osti.com.ph/queue.png" alt="Queue Management System" width="220" style="border-radius:15px; margin:15px;"/>
+    <br><b>Queue Management System</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/osti-dev/DBP_IDS_SYSTEM" target="_blank">
+    <img src="https://dev.osti.com.ph/ids.jpg" alt="ID System" width="220" style="border-radius:15px; margin:15px;"/>
+    <br><b>ID System</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/osti-dev/DBP_SMS_SYSTEM" target="_blank">
+    <img src="https://dev.osti.com.ph/sms.jpg" alt="SMS System" width="220" style="border-radius:15px; margin:15px;"/>
+    <br><b>SMS System</b>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/osti-dev/TOYOTA_LOYALTYCARD" target="_blank">
+    <img src="https://dev.osti.com.ph/loyalty.jpg" alt="Loyalty Card" width="220" style="border-radius:15px; margin:15px;"/>
+    <br><b>Loyalty Card</b>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 From **Queue Systems** to **SMS Solutions**,  
+  we build software that makes organizations more efficient, scalable, and user-friendly.  
+</p>
+---
+
 ### 🚀 What We’re Working On
 - 🔭 Currently building **[OpenQSocket](https://github.com/osti-dev/OpenQSocket)**  
 - 👯 Collaborating on **[SMS SYSTEM](https://github.com/osti-dev/DBP_SMS_SYSTEM)**  
