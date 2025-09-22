@@ -80,15 +80,15 @@
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/therese.jpg" width="150" style="border-radius:50%;"/><br>
-  <b>THERESE BACULPO</b><br>Lead Developer
+  <b>THERESE BACULPO</b><br>Lead Programmer
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/bejie.jpg" width="150" style="border-radius:50%;"/><br>
-  <b>BEJIE GULFAN</b><br>PROJECT MANAGER
+  <b>BEJIE GULFAN</b><br>Project Manager
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/wenjoy.png" width="150" style="border-radius:50%;"/><br>
-  <b>WENJOY YBAS</b><br>Project Manager
+  <b>WENJOY YBAS</b><br>Lead Programmer
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/ike.png" width="150" style="border-radius:50%;"/><br>
