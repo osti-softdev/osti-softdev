@@ -14,7 +14,31 @@
 </p>
 
 ---
+---
 
+## 🏆 Most Active Repositories
+
+<p align="center">
+  <a href="https://github.com/osti-softdev/OpenQSocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=osti-softdev&repo=OpenQSocket&theme=radical" alt="OpenQSocket"/>
+  </a>
+  <a href="https://github.com/osti-softdev/DBP_SMS_SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=osti-softdev&repo=DBP_SMS_SYSTEM&theme=radical" alt="DBP_SMS_SYSTEM"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>🔥 Our <a href="https://github.com/osti-softdev/OpenQSocket">OpenQSocket</a> repo currently has the most commits, followed by <a href="https://github.com/osti-softdev/DBP_SMS_SYSTEM">DBP_SMS_SYSTEM</a>.</b>
+</p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osti-softdev&theme=radical&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+---
 ## 💡 Our Software Solutions
 
 <table>
