@@ -19,16 +19,16 @@
 ## 🏆 Most Active Repositories
 
 <p align="center">
-  <a href="https://github.com/osti-softdev/OpenQSocket">
+  <a href="https://github.com/osti-softdev/SQUE">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=osti-softdev&repo=SQUE&theme=radical" alt="SQUE"/>
   </a>
-  <a href="https://github.com/osti-softdev/DBP_SMS_SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=osti-softdev&repo=Arduino&theme=radical" alt="Arduino"/>
+  <a href="https://github.com/osti-softdev/loyalty_card">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=osti-softdev&repo=loyalty_card&theme=radical" alt="loyalty_card"/>
   </a>
 </p>
 
 <p align="center">
-  <b>🔥 Our <a href="https://github.com/osti-softdev/SQUE">SQUE</a> repo currently has the most commits, followed by <a href="https://github.com/osti-softdev/DBP_SMS_SYSTEM">DBP_SMS_SYSTEM</a>.</b>
+  <b>🔥 Our <a href="https://github.com/osti-softdev/SQUE">SQUE</a> repo currently has the most commits, followed by <a href="https://github.com/osti-softdev/loyalty_card">loyalty_card</a>.</b>
 </p>
 
 ---
