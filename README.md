@@ -74,19 +74,23 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://dev.osti.com.ph/cade.png" width="150" style="border-radius:50%;"/><br>
   <b>CADE LAWRENZO CAÑA</b><br>Development Head
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://dev.osti.com.ph/therese.jpg" width="150" style="border-radius:50%;"/><br>
   <b>THERESE BACULPO</b><br>Lead Developer
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+  <img src="https://dev.osti.com.ph/bejie.jpg" width="150" style="border-radius:50%;"/><br>
+  <b>THERESE BACULPO</b><br>Lead Developer
+</td>
+<td align="center" width="20%">
   <img src="https://dev.osti.com.ph/wenjoy.png" width="150" style="border-radius:50%;"/><br>
   <b>WENJOY YBAS</b><br>Project Manager
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
   <img src="https://dev.osti.com.ph/ike.png" width="150" style="border-radius:50%;"/><br>
   <b>DEVON IKE HICALDE</b><br>UI/UX In-Charge
 </td>
