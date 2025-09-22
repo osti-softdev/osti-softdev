@@ -84,7 +84,7 @@
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/bejie.jpg" width="150" style="border-radius:50%;"/><br>
-  <b>THERESE BACULPO</b><br>Lead Developer
+  <b>BEJIE GULFAN</b><br>PROJECT MANAGER
 </td>
 <td align="center" width="20%">
   <img src="https://dev.osti.com.ph/wenjoy.png" width="150" style="border-radius:50%;"/><br>
