@@ -6,7 +6,7 @@
 
 ## 🚀 Hero Section
 <p align="center">
-  <img src="https://osti.com.ph/img-osti/ai.png" alt="Hero Banner"/>
+  <img src="https://osti.com.ph/img-osti/osti-logo.png" alt="Hero Banner"/>
 </p>
 
 <p align="center">
